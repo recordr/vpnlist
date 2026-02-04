@@ -82,8 +82,7 @@ themoviedb.org
 cisco.com
 community.cisco.com
 
-4pda.to
-4pda.ru
+4pda.to 8.8.8.8
 
 #tiktok
 tiktok.com
