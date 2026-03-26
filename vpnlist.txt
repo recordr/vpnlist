@@ -20,6 +20,8 @@ browser-intake-datadoghq.com
 o33249.ingest.us.sentry.io
 sora.com
 
+claude.ai
+
 #spotify.com
 #www.spotify.com
 api.nike.com
