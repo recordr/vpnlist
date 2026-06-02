@@ -11,6 +11,9 @@ help.instagram.com
 
 sidestore.io
 
+x.com
+twitter.com
+
 #chatgpt
 chatgpt.com
 ab.chatgpt.com
