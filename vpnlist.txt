@@ -13,6 +13,7 @@ sidestore.io
 
 x.com
 twitter.com
+twimg.com
 
 #chatgpt
 chatgpt.com
