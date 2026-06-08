@@ -17,6 +17,8 @@ twimg.com
 pbs.twimg.com
 t.co
 
+soundcloud.com
+
 #chatgpt
 chatgpt.com
 ab.chatgpt.com
