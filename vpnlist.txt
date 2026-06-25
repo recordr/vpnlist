@@ -19,7 +19,6 @@ soundcloud.com
 
 #chatgpt
 chatgpt.com
-ab.chatgpt.com
 openai.com
 cdn.oaistatic.com
 files.oaiusercontent.com
@@ -54,7 +53,6 @@ newbalance.com
 canva.com
 ticketmaster.ae
 ticketmaster.com
-epsf.ticketmaster.ae
 
 #mongo
 mongodb.com
