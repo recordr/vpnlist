@@ -127,6 +127,8 @@ flightradar24.com
 homewhiz.com
 www.homewhiz.com
 lttn91gde0.execute-api.us-east-1.amazonaws.com
+arcelikiot.com
+ipify.org
 
 rutracker.org
 rutor.org
