@@ -134,3 +134,4 @@ nnmclub.to
 skrillex.com
 
 amazonaws.com
+*.amazonaws.com
