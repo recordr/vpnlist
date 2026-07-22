@@ -29,6 +29,7 @@ sora.com
 
 claude.ai
 anthropic.com
+api.anthropic.com
 
 spotify.com
 www.spotify.com
