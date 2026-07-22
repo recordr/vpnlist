@@ -28,6 +28,7 @@ o33249.ingest.us.sentry.io
 sora.com
 
 claude.ai
+anthropic.com
 
 spotify.com
 www.spotify.com
