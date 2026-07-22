@@ -30,6 +30,8 @@ sora.com
 claude.ai
 anthropic.com
 api.anthropic.com
+claude.com
+platform.claude.com
 
 spotify.com
 www.spotify.com
