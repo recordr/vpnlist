@@ -17,6 +17,8 @@ twimg.com
 pbs.twimg.com
 t.co
 
+foxit.com
+
 soundcloud.com
 
 #chatgpt
