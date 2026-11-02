@@ -115,6 +115,7 @@ tx.me
 tg.dev
 comments.app
 cdn-telegram.org
+cdn1.telesco.pe
 
 #WA
 whatsapp.net
