@@ -7,7 +7,7 @@ facebook.com
 fb.com
 fbsbx.com
 
-xsts.auth.xboxlive.com
+xboxlive.com
 
 bitdefender.com
 
