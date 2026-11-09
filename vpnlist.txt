@@ -36,6 +36,7 @@ anthropic.com
 api.anthropic.com
 claude.com
 platform.claude.com
+claudeusercontent.com
 
 spotify.com
 www.spotify.com
